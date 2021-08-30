@@ -2,7 +2,7 @@ cwebTestFunction();
 
 //define
 function cwebTestFunction(){
-    var name = "CF";
+    var name = "C Fulton";
     var subject = "Web Tooling";
     var meetingTime;
 
