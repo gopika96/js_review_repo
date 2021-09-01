@@ -16,5 +16,6 @@ function cwebTestFunction(){
 
 
 var getInstructor = ()=>{
-    console.log("Who is the instructor");
+    var cwebinstructor = "Don";
+    console.log('Who is the instructor ${cwebinstructor}');
 }
